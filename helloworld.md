@@ -34,3 +34,4 @@
 Посмотрите [подробную инструкцию](https://habr.com/ru/post/541258/) по Git для новичков.
 
 ![<image>](git_image.png)
+second br branch changes
